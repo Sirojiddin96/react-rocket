@@ -9,7 +9,7 @@ const App = () => {
   ];
   return (
     <div className="App">
-      <h1>Let's get Started</h1>
+      <h1>React Rocket</h1>
       <Expenses items={expenses} />
     </div>
   );
